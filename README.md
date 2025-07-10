@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yoshua, an <a href="https://linkedin.com/in/Yoshua Munganga">IT Professional</a>☺</h1>
+<h1>Hi, I'm Yoshua, an <a href="https://linkedin.com/in/yoshua-munganga-087642215/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
